@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br />My name is Ariel Tubul
+Hillow Hillow ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br />My name is Ariel Tubul
 ===================================================================================================================================
 
 ### Skills
@@ -23,6 +23,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://docker.com/favicon.ico" width="36" height="36" alt="Docker" /></a>
 <a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" width="36" height="36" alt="Jadx" /></a>
 <a href="https://ibotpeaches.github.io/Apktool/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/apktool/images/apktool-logo.svg" width="36" height="36" alt="Apktool" /></a>
+<a href="https://gitlab.com/gitlab-org/gitlab" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="36" height="36" alt="Gitlab" /></a>
 </p>
 
 ### Socials
@@ -35,4 +36,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/mon231"><img src="https://github-readme-stats.vercel.app/api?username=mon231&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mon231's GitHub stats" /></a>
 
-<a href="https://github.com/mon231" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon231&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mon231" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon231&layout=pie&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
