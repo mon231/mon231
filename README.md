@@ -20,6 +20,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://scapy.net/" target="_blank" rel="noreferrer"><img src="https://scapy.net/favicon.ico" width="36" height="36" alt="Scapy" /></a>
 <a href="https://frida.re/" target="_blank" rel="noreferrer"><img src="https://frida.re/favicon.ico" width="36" height="36" alt="Frida" /></a>
 <a href="https://github.com/kimocoder/wifite2" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="36" height="36" alt="Wifite" /></a>
+<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://docker.com/favicon.ico" width="36" height="36" alt="Docker" /></a>
+<a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" width="36" height="36" alt="Jadx" /></a>
 </p>
 
 ### Socials
