@@ -17,8 +17,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://scapy.net/" target="_blank" rel="noreferrer"><img src="https://scapy.net/favicon.ico" width="36" height="36" alt="Scapy" /></a>
+<a href="https://frida.re/" target="_blank" rel="noreferrer"><img src="https://frida.re/favicon.ico" width="36" height="36" alt="Frida" /></a>
+<a href="https://github.com/kimocoder/wifite2" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="36" height="36" alt="Wifite" /></a>
 </p>
-
 
 ### Socials
 
