@@ -24,6 +24,11 @@ Hillow Hillow ![](https://user-images.githubusercontent.com/18350557/176309783-0
 <a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" width="36" height="36" alt="Jadx" /></a>
 <a href="https://ibotpeaches.github.io/Apktool/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/apktool/images/apktool-logo.svg" width="36" height="36" alt="Apktool" /></a>
 <a href="https://gitlab.com/gitlab-org/gitlab" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="36" height="36" alt="Gitlab" /></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.wireshark.org/assets/icons/favicon.ico" width="36" height="36" alt="Wireshark" /></a>
+<a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://www.telerik.com/favicon.ico" width="36" height="36" alt="Fiddler" /></a>
+<a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"><img src="https://hashcat.net/favicon.ico" width="36" height="36" alt="Hashcat" /></a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="Nmap" /></a>
+<a href="https://github.com/openwall/john" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="36" height="36" alt="JohnTheRipper" /></a>
 </p>
 
 ### Socials
