@@ -29,6 +29,9 @@ Hillow Hillow ![](https://user-images.githubusercontent.com/18350557/176309783-0
 <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"><img src="https://hashcat.net/favicon.ico" width="36" height="36" alt="Hashcat" /></a>
 <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="Nmap" /></a>
 <a href="https://github.com/openwall/john" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="36" height="36" alt="JohnTheRipper" /></a>
+<a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-overview" target="_blank" rel="noreferrer"><img src="https://store-images.s-microsoft.com/image/apps.39430.14179965677555945.4511bc55-f511-4c63-a99c-6ff01f7fb0af.3a6d737d-da45-47ff-b99c-6a9438490a7e" width="36" height="36" alt="Windbg" /></a>
+<a href="https://hex-rays.com/ida-free/" target="_blank" rel="noreferrer"><img src="https://hex-rays.com/favicon/apple-icon.png" width="36" height="36" alt="Ida" /></a>
+<a href="https://learn.microsoft.com/en-us/sysinternals/" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/en-us/sysinternals/media/index/sysinternals.png" width="36" height="36" alt="Sysinternals" /></a>
 </p>
 
 ### Socials
