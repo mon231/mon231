@@ -4,34 +4,34 @@ Hillow Hillow ![](https://user-images.githubusercontent.com/18350557/176309783-0
 ### Skills
 
 <p align="left">
-<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://scapy.net/" target="_blank" rel="noreferrer"><img src="https://scapy.net/favicon.ico" width="36" height="36" alt="Scapy" /></a>
-<a href="https://frida.re/" target="_blank" rel="noreferrer"><img src="https://frida.re/favicon.ico" width="36" height="36" alt="Frida" /></a>
-<a href="https://github.com/kimocoder/wifite2" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="36" height="36" alt="Wifite" /></a>
-<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://docker.com/favicon.ico" width="36" height="36" alt="Docker" /></a>
-<a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" width="36" height="36" alt="Jadx" /></a>
-<a href="https://ibotpeaches.github.io/Apktool/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/apktool/images/apktool-logo.svg" width="36" height="36" alt="Apktool" /></a>
-<a href="https://gitlab.com/gitlab-org/gitlab" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="36" height="36" alt="Gitlab" /></a>
-<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.wireshark.org/assets/icons/favicon.ico" width="36" height="36" alt="Wireshark" /></a>
-<a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://www.telerik.com/favicon.ico" width="36" height="36" alt="Fiddler" /></a>
-<a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"><img src="https://hashcat.net/favicon.ico" width="36" height="36" alt="Hashcat" /></a>
-<a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="Nmap" /></a>
-<a href="https://github.com/openwall/john" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="36" height="36" alt="JohnTheRipper" /></a>
-<a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-overview" target="_blank" rel="noreferrer"><img src="https://store-images.s-microsoft.com/image/apps.39430.14179965677555945.4511bc55-f511-4c63-a99c-6ff01f7fb0af.3a6d737d-da45-47ff-b99c-6a9438490a7e" width="36" height="36" alt="Windbg" /></a>
-<a href="https://hex-rays.com/ida-free/" target="_blank" rel="noreferrer"><img src="https://hex-rays.com/favicon/apple-icon.png" width="36" height="36" alt="Ida" /></a>
-<a href="https://learn.microsoft.com/en-us/sysinternals/" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/en-us/sysinternals/media/index/sysinternals.png" width="36" height="36" alt="Sysinternals" /></a>
+<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" title="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" title="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" title="C#" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" title="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" title="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" title="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" title="React" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" title="Angular" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" title="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" title="Express" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" title="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" title="Heroku" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" title=".NET" /></a>
+<a href="https://scapy.net/" target="_blank" rel="noreferrer"><img src="https://scapy.net/favicon.ico" width="36" height="36" title="Scapy" /></a>
+<a href="https://frida.re/" target="_blank" rel="noreferrer"><img src="https://frida.re/favicon.ico" width="36" height="36" title="Frida" /></a>
+<a href="https://github.com/kimocoder/wifite2" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="36" height="36" title="Wifite" /></a>
+<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://docker.com/favicon.ico" width="36" height="36" title="Docker" /></a>
+<a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" width="36" height="36" title="Jadx" /></a>
+<a href="https://ibotpeaches.github.io/Apktool/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/apktool/images/apktool-logo.svg" width="36" height="36" title="Apktool" /></a>
+<a href="https://gitlab.com/gitlab-org/gitlab" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="36" height="36" title="Gitlab" /></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.wireshark.org/assets/icons/favicon.ico" width="36" height="36" title="Wireshark" /></a>
+<a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://www.telerik.com/favicon.ico" width="36" height="36" title="Fiddler" /></a>
+<a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"><img src="https://hashcat.net/favicon.ico" width="36" height="36" title="Hashcat" /></a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" title="Nmap" /></a>
+<a href="https://github.com/openwall/john" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="36" height="36" title="JohnTheRipper" /></a>
+<a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-overview" target="_blank" rel="noreferrer"><img src="https://store-images.s-microsoft.com/image/apps.39430.14179965677555945.4511bc55-f511-4c63-a99c-6ff01f7fb0af.3a6d737d-da45-47ff-b99c-6a9438490a7e" width="36" height="36" title="Windbg" /></a>
+<a href="https://hex-rays.com/ida-free/" target="_blank" rel="noreferrer"><img src="https://hex-rays.com/favicon/apple-icon.png" width="36" height="36" title="Ida" /></a>
+<a href="https://learn.microsoft.com/en-us/sysinternals/" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/en-us/sysinternals/media/index/sysinternals.png" width="36" height="36" title="Sysinternals" /></a>
 </p>
 
 ### Socials
