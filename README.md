@@ -32,6 +32,8 @@ Hillow Hillow ![](https://user-images.githubusercontent.com/18350557/176309783-0
 <a href="https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-overview" target="_blank" rel="noreferrer"><img src="https://store-images.s-microsoft.com/image/apps.39430.14179965677555945.4511bc55-f511-4c63-a99c-6ff01f7fb0af.3a6d737d-da45-47ff-b99c-6a9438490a7e" width="36" height="36" title="Windbg" /></a>
 <a href="https://hex-rays.com/ida-free/" target="_blank" rel="noreferrer"><img src="https://hex-rays.com/favicon/apple-icon.png" width="36" height="36" title="Ida" /></a>
 <a href="https://learn.microsoft.com/en-us/sysinternals/" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/en-us/sysinternals/media/index/sysinternals.png" width="36" height="36" title="Sysinternals" /></a>
+<a href="https://www.nirsoft.net/" target="_blank" rel="noreferrer"><img src="https://www.nirsoft.net/favicon.ico" width="36" height="36" title="Nirsoft" /></a>
+<a href="https://www.jetbrains.com/decompiler/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/dotpeek/img/meta/dotpeek_logo_300x300.png" width="36" height="36" title="Dotpeek" /></a>
 </p>
 
 ### Socials
