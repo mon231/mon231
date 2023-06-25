@@ -1,4 +1,5 @@
-Hillow Hillow ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br />My name is Ariel Tubul
+Hillow Hillow ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br />
+My name is Ariel Tubul!
 ===================================================================================================================================
 
 ### Skills
@@ -34,6 +35,8 @@ Hillow Hillow ![](https://user-images.githubusercontent.com/18350557/176309783-0
 <a href="https://learn.microsoft.com/en-us/sysinternals/" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/en-us/sysinternals/media/index/sysinternals.png" width="36" height="36" title="Sysinternals" /></a>
 <a href="https://www.nirsoft.net/" target="_blank" rel="noreferrer"><img src="https://www.nirsoft.net/favicon.ico" width="36" height="36" title="Nirsoft" /></a>
 <a href="https://www.jetbrains.com/decompiler/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/dotpeek/img/meta/dotpeek_logo_300x300.png" width="36" height="36" title="Dotpeek" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/favicon.ico" width="36" height="36" title="VSCode" /></a>
+<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://www.metasploit.com/includes/images/favicon.ico" width="36" height="36" title="Metasploit" /></a>
 </p>
 
 ### Socials
