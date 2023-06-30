@@ -50,6 +50,8 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mon231"><img src="https://github-readme-stats.vercel.app/api?username=mon231&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mon231's GitHub stats" /></a>
+[![mon231's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mon231&theme=react)](https://github.com/mon321)
 
-<a href="https://github.com/mon231" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon231&layout=pie&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![mon231's github activity graph](https://github-readme-stats.vercel.app/api?username=mon231&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/mon321)
+
+[![mon231's github activity graph](https://github-readme-stats.vercel.app/api/top-langs/?username=mon231&layout=pie&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/mon321)
