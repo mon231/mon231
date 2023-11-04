@@ -38,6 +38,7 @@
 <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank" rel="noreferrer"><img src="https://static.thenounproject.com/png/4696737-200.png" width="36" height="36" title="Assembly" /></a>
 <a href="https://docs.python.org/3/library/dis.html" target="_blank" rel="noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/file-format-set/64/2895-512.png" width="36" height="36" title="PyByteCode" /></a>
 <a href="https://source.android.com/docs/core/runtime/dalvik-bytecode" target="_blank" rel="noreferrer"><img src="https://www.file-extension.info/images/resource/formats/smali.png" width="36" height="36" title="Smali" /></a>
+<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://www.electronjs.org/assets/img/favicon.ico" width="36" height="36" title="Electron" /></a>
 </p>
 
 ### Socials
