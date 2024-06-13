@@ -41,6 +41,9 @@
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://www.electronjs.org/assets/img/favicon.ico" width="36" height="36" title="Electron" /></a>
 <a href="https://wiki.osdev.org/Main_Page" target="_blank" rel="noreferrer"><img src="https://wiki.osdev.org/skins/common/images/osdev.png" width="36" height="36" title="OSDev" /></a>
 <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="36" height="36" title="Aircrack-NG" /></a>
+<a href="https://github.com/topjohnwu/Magisk" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png" width="36" height="36" title="Magisk" /></a>
+<a href="https://github.com/LSPosed/LSPosed" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/504549/lsposed.svg" width="36" height="36" title="LSPosed" /></a>
+<a href="https://github.com/ReVanced/revanced-manager" target="_blank" rel="noreferrer"><img src="https://github.com/ReVanced/revanced-manager/raw/main/assets/revanced-logo/revanced-logo.svg" width="36" height="36" title="ReVanced" /></a>
 </p>
 
 ### Socials
