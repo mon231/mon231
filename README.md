@@ -44,6 +44,7 @@
 <a href="https://github.com/topjohnwu/Magisk" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png" width="36" height="36" title="Magisk" /></a>
 <a href="https://github.com/LSPosed/LSPosed" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/504549/lsposed.svg" width="36" height="36" title="LSPosed" /></a>
 <a href="https://github.com/ReVanced/revanced-manager" target="_blank" rel="noreferrer"><img src="https://github.com/ReVanced/revanced-manager/raw/main/assets/revanced-logo/revanced-logo.svg" width="36" height="36" title="ReVanced" /></a>
+<a href="https://github.com/dnSpyEx/dnSpy" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/2/26/DnSpy-logo.png" width="36" height="36" title="dnSpyEx" /></a>
 </p>
 
 ### Socials
