@@ -55,7 +55,10 @@
 <a href="https://www.linkedin.com/in/ariel-tubul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://open.spotify.com/user/31okqz5vrp2nirbx2t4wzhby5uwa" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/7383823/r-e-l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/ArielTubul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.codewars.com/users/mon231" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="32" height="32" /></a></p>
+<a href="https://www.twitter.com/ArielTubul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.codewars.com/users/mon231" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="32" height="32" /></a>
+<a href="https://www.duolingo.com/profile/ArielTubul2" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/duolingo-1.svg" width="32" height="32" /></a>
+</p>
 
 
 ### Badges
