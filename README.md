@@ -58,6 +58,7 @@
 <a href="https://www.twitter.com/ArielTubul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.codewars.com/users/mon231" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="32" height="32" /></a>
 <a href="https://www.duolingo.com/profile/ArielTubul2" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/duolingo-1.svg" width="32" height="32" /></a>
+<a href="https://t.me/mon231" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="32" height="32" /></a>
 </p>
 
 
