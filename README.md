@@ -19,11 +19,13 @@
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" title="Heroku" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" title=".NET" /></a>
 <a href="https://scapy.net/" target="_blank" rel="noreferrer"><img src="https://scapy.net/favicon.ico" width="36" height="36" title="Scapy" /></a>
+<a href="https://ngrok.com/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/6650569ab0a2be1e834a5e86_94adae15-b8bb-50cf-92e8-2307ac1b267f.svg" width="36" height="36" title="Ngrok" /></a>
 <a href="https://frida.re/" target="_blank" rel="noreferrer"><img src="https://frida.re/favicon.ico" width="36" height="36" title="Frida" /></a>
 <a href="https://github.com/kimocoder/wifite2" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="36" height="36" title="Wifite" /></a>
 <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://docker.com/favicon.ico" width="36" height="36" title="Docker" /></a>
 <a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" width="36" height="36" title="Jadx" /></a>
 <a href="https://ibotpeaches.github.io/Apktool/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/apktool/images/apktool-logo.svg" width="36" height="36" title="Apktool" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/favicons/favicon.png" width="36" height="36" title="Github" /></a>
 <a href="https://gitlab.com/gitlab-org/gitlab" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="36" height="36" title="Gitlab" /></a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.wireshark.org/assets/icons/favicon.ico" width="36" height="36" title="Wireshark" /></a>
 <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://www.telerik.com/favicon.ico" width="36" height="36" title="Fiddler" /></a>
@@ -42,6 +44,7 @@
 <a href="https://source.android.com/docs/core/runtime/dalvik-bytecode" target="_blank" rel="noreferrer"><img src="https://www.file-extension.info/images/resource/formats/smali.png" width="36" height="36" title="Smali" /></a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://www.electronjs.org/assets/img/favicon.ico" width="36" height="36" title="Electron" /></a>
 <a href="https://wiki.osdev.org/Main_Page" target="_blank" rel="noreferrer"><img src="https://wiki.osdev.org/skins/common/images/osdev.png" width="36" height="36" title="OSDev" /></a>
+<a href="https://github.com/LongSoft/UEFITool" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LongSoft/UEFITool/new_engine/UEFITool/icons/uefitool_64x64.png" width="36" height="36" title="UEFITool" /></a>
 <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="36" height="36" title="Aircrack-NG" /></a>
 <a href="https://github.com/topjohnwu/Magisk" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png" width="36" height="36" title="Magisk" /></a>
 <a href="https://github.com/LSPosed/LSPosed" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/504549/lsposed.svg" width="36" height="36" title="LSPosed" /></a>
