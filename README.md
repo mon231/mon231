@@ -1,4 +1,4 @@
-# whoami
+# `$ whoami`
 ## Hillow Hillow ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br /> My name is Ariel Tubul!
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ariel.tubul)
 
@@ -50,6 +50,9 @@
 <a href="https://github.com/LSPosed/LSPosed" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/504549/lsposed.svg" width="36" height="36" title="LSPosed" /></a>
 <a href="https://github.com/ReVanced/revanced-manager" target="_blank" rel="noreferrer"><img src="https://github.com/ReVanced/revanced-manager/raw/main/assets/revanced-logo/revanced-logo.svg" width="36" height="36" title="ReVanced" /></a>
 <a href="https://github.com/dnSpyEx/dnSpy" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/logopedia/images/2/26/DnSpy-logo.png" width="36" height="36" title="dnSpyEx" /></a>
+<a href="https://docs.pytest.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/svg/pytest.svg" width="36" height="36" title="pytest" /></a>
+<a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer"><img src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/media.jfrog.com/wp-content/uploads/2024/08/08132607/jfrog-logo-2022.svg" width="36" height="36" title="artifactory" /></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" width="36" height="36" title="actions" /></a>
 </p>
 
 ### Socials
@@ -69,10 +72,8 @@
 
 ### Badges
 
-<b>My GitHub Stats</b>
+| Top Languages | GitHub Stats |
+|--------------|-------------|
+| [![mon231's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mon231&layout=pie&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true&locale=en&custom_title=Top%20%Languages)](https://github.com/mon231) | [![mon231's GitHub activity graph](https://github-readme-stats.vercel.app/api?username=mon231&count_private=true&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&hide_rank=true)](https://github.com/mon231) |
 
-[![mon231's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mon231&theme=react)](https://github.com/mon231)
-
-[![mon231's github activity graph](https://github-readme-stats.vercel.app/api?username=mon231&count_private=true&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&rank_icon=percentile)](https://github.com/mon231)
-
-[![mon231's github activity graph](https://github-readme-stats.vercel.app/api/top-langs/?username=mon231&layout=pie&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true&locale=en&custom_title=Top%20%Languages)](https://github.com/mon231)
+[![mon231's github commits graph](https://github-readme-activity-graph.vercel.app/graph?username=mon231&theme=react)](https://github.com/mon231)
