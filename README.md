@@ -54,6 +54,7 @@
 <a href="https://jfrog.com/artifactory/" target="_blank" rel="noreferrer"><img src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/media.jfrog.com/wp-content/uploads/2024/08/08132607/jfrog-logo-2022.svg" width="36" height="36" title="artifactory" /></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/1*txwKGJOoQ2W0ka_9htbu0Q.png" width="36" height="36" title="actions" /></a>
 <a href="https://github.com/fortra/impacket" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/117669217?v=4" width="36" height="36" title="impacket" /></a>
+<a href="https://docs.racket-lang.org/index.html" target="_blank" rel="noreferrer"><img src="https://racket-lang.org/img/racket-logo.svg" width="36" height="36" title="Racket" /></a>
 </p>
 
 ### Socials
