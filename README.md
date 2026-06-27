@@ -43,7 +43,7 @@
 <a href="https://docs.python.org/3/library/dis.html" target="_blank" rel="noreferrer"><img src="https://cdn1.iconfinder.com/data/icons/file-format-set/64/2895-512.png" width="36" height="36" title="PyByteCode" /></a>
 <a href="https://source.android.com/docs/core/runtime/dalvik-bytecode" target="_blank" rel="noreferrer"><img src="https://www.file-extension.info/images/resource/formats/smali.png" width="36" height="36" title="Smali" /></a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://www.electronjs.org/assets/img/favicon.ico" width="36" height="36" title="Electron" /></a>
-<a href="https://wiki.osdev.org/Main_Page" target="_blank" rel="noreferrer"><img src="https://wiki.osdev.org/skins/common/images/osdev.png" width="36" height="36" title="OSDev" /></a>
+<a href="https://wiki.osdev.org/Main_Page" target="_blank" rel="noreferrer"><img src="https://wiki.osdev.org/favicon.ico" width="36" height="36" title="OSDev" /></a>
 <a href="https://github.com/LongSoft/UEFITool" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LongSoft/UEFITool/new_engine/UEFITool/icons/uefitool_64x64.png" width="36" height="36" title="UEFITool" /></a>
 <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="36" height="36" title="Aircrack-NG" /></a>
 <a href="https://github.com/topjohnwu/Magisk" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png" width="36" height="36" title="Magisk" /></a>
@@ -63,12 +63,12 @@
 <a href="https://www.github.com/mon231" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/relarielrel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/ariel-tubul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://open.spotify.com/user/31okqz5vrp2nirbx2t4wzhby5uwa" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" width="32" height="32" /></a>
+<a href="https://open.spotify.com/user/31okqz5vrp2nirbx2t4wzhby5uwa" target="_blank" rel="noreferrer"><img src="https://open.spotify.com/favicon.ico" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/7383823/r-e-l" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/ArielTubul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://www.codewars.com/users/mon231" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="32" height="32" /></a>
 <a href="https://www.duolingo.com/profile/ArielTubul2" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/duolingo-1.svg" width="32" height="32" /></a>
-<a href="https://t.me/mon231" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" width="32" height="32" /></a>
+<a href="https://t.me/mon231" target="_blank" rel="noreferrer"><img src="https://telegram.org/img/favicon.ico" width="32" height="32" /></a>
 </p>
 
 
