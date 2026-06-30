@@ -12,7 +12,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 26
-          cache: npm
 
       - name: install claude-code
         run: npm install -g @anthropic-ai/claude-code
