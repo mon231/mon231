@@ -26,7 +26,7 @@
 <a href="https://github.com/skylot/jadx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" width="36" height="36" title="Jadx" /></a>
 <a href="https://ibotpeaches.github.io/Apktool/" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/apktool/images/apktool-logo.svg" width="36" height="36" title="Apktool" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/favicons/favicon.png" width="36" height="36" title="Github" /></a>
-<a href="https://gitlab.com/gitlab-org/gitlab" target="_blank" rel="noreferrer"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" width="36" height="36" title="Gitlab" /></a>
+<a href="https://gitlab.com/gitlab-org/gitlab" target="_blank" rel="noreferrer"><img src="https://gitlab.com/favicon.ico" width="36" height="36" title="Gitlab" /></a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.wireshark.org/assets/icons/favicon.ico" width="36" height="36" title="Wireshark" /></a>
 <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"><img src="https://www.telerik.com/favicon.ico" width="36" height="36" title="Fiddler" /></a>
 <a href="https://hashcat.net/hashcat/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/scandium/hashcat-gui/master/src/images/icon_hashcat.ico" width="36" height="36" title="Hashcat" /></a>
