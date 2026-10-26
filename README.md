@@ -77,5 +77,3 @@
 | Top Languages | GitHub Stats |
 |--------------|-------------|
 | [![mon231's GitHub top languages](https://github-stats-extended.vercel.app/api/top-langs?username=mon231&layout=pie&langs_count=20&theme=github_dark)](https://github.com/mon231) | [![mon231's GitHub Stats](https://github-stats-extended.vercel.app/api?username=mon231&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/mon231) |
-
-[![mon231's github commits graph](https://github-readme-activity-graph.vercel.app/graph?username=mon231&theme=react)](https://github.com/mon231)
