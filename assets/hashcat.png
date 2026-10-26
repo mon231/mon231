@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>hashcat - page not found</title>
+    <meta name="author" content="atom">
+    <meta name="robots" content="noindex,follow">
+    <link rel="stylesheet" type="text/css" href="/s/style-v2.css?v=25" media="screen">
+    <link rel="stylesheet" type="text/css" href="/s/type.css?v=6" media="screen">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+      <script>try{var t=localStorage.getItem("hashcat-theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+    <script src="/s/theme.js?v=8" defer></script>
+</head>
+
+  <body>
+    <div class="bdin">
+      <div class="header">
+        <h1><a href="/"><span>hashcat</span><br> advanced password recovery</a></h1>
+        <hr>
+      </div>
+
+      <div class="sidebar_l">
+        <div class="navigation">
+          <h2>Navigation</h2>
+          <ul>
+            <li><a href="/hashcat/" title="Hashcat">hashcat</a></li>
+            <li><a href="/forum/" title="Forum">Forum</a></li>
+            <li><a href="/wiki/" title="Wiki">Wiki</a></li>
+            <li><a href="/cap2hashcat/" title="Converter">Converter</a></li>
+            <li><a href="/contact/" title="Contact">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="section pagehead" id="notfound">
+          <h2>Oooops</h2>
+
+          <p>The Page you're looking for does not exist (Error 404, as in HTTP).</p>
+
+          <div class="image">
+            <img src="/error/404-wtf-cat.jpg" width="500" height="365" alt="Cat #16 - WTF Cat">
+          </div>
+
+          <p class="credit">Cat #16 - WTF Cat by <a href="https://www.flickr.com/photos/omnitarian/4278813977/">omnitarian</a>, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND 2.0</a></p>
+
+          <p><a class="button" href="/hashcat/">Go to the main page</a></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
