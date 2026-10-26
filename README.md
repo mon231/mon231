@@ -43,7 +43,7 @@
 <a href="https://docs.python.org/3/library/dis.html" target="_blank" rel="noreferrer"><img src="assets/pybytecode.png" width="36" height="36" title="PyByteCode" /></a>
 <a href="https://source.android.com/docs/core/runtime/dalvik-bytecode" target="_blank" rel="noreferrer"><img src="assets/smali.png" width="36" height="36" title="Smali" /></a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="assets/electron.ico" width="36" height="36" title="Electron" /></a>
-<a href="https://wiki.osdev.org/Main_Page" target="_blank" rel="noreferrer"><img src="assets/osdev.png" width="36" height="36" title="OSDev" /></a>
+<a href="https://wiki.osdev.org/Main_Page" target="_blank" rel="noreferrer"><img src="assets/osdev.jpg" width="36" height="36" title="OSDev" /></a>
 <a href="https://github.com/LongSoft/UEFITool" target="_blank" rel="noreferrer"><img src="assets/uefitool.png" width="36" height="36" title="UEFITool" /></a>
 <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"><img src="assets/aircrack.svg" width="36" height="36" title="Aircrack-NG" /></a>
 <a href="https://github.com/topjohnwu/Magisk" target="_blank" rel="noreferrer"><img src="assets/magisk.png" width="36" height="36" title="Magisk" /></a>
