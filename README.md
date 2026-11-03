@@ -55,6 +55,7 @@
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="assets/actions.png" width="36" height="36" title="actions" /></a>
 <a href="https://github.com/fortra/impacket" target="_blank" rel="noreferrer"><img src="assets/impacket.png" width="36" height="36" title="impacket" /></a>
 <a href="https://docs.racket-lang.org/index.html" target="_blank" rel="noreferrer"><img src="assets/racket.svg" width="36" height="36" title="Racket" /></a>
+<a href="https://chaquo.com/chaquopy/" target="_blank" rel="noreferrer"><img src="assets/chaquopy.png" width="36" height="36" title="chaquopy" /></a>
 </p>
 
 ### Socials
@@ -69,6 +70,7 @@
 <a href="https://www.codewars.com/users/mon231" target="_blank" rel="noreferrer"><img src="assets/codewars.svg" width="32" height="32" /></a>
 <a href="https://www.duolingo.com/profile/ArielTubul2" target="_blank" rel="noreferrer"><img src="assets/duolingo.svg" width="32" height="32" /></a>
 <a href="https://t.me/mon231" target="_blank" rel="noreferrer"><img src="assets/telegram.ico" width="32" height="32" /></a>
+<a href="https://xdaforums.com/m/mon231.12953693/" target="_blank" rel="noreferrer"><img src="assets/xda.png" width="32" height="32" /></a>
 </p>
 
 
@@ -77,3 +79,29 @@
 | Top Languages | GitHub Stats |
 |--------------|-------------|
 | [![mon231's GitHub top languages](https://github-stats-extended.vercel.app/api/top-langs?username=mon231&layout=pie&langs_count=20&theme=github_dark)](https://github.com/mon231) | [![mon231's GitHub Stats](https://github-stats-extended.vercel.app/api?username=mon231&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/mon231) |
+
+### Projects & Interests
+
+#### Binary Processors
+1. [buildapp](https://github.com/mon231/buildapp) - apktool wrapper to build, align and sign recompiled applications
+1. [peor](https://github.com/mon231/peor) - executables shellcodifier for windwos/linux/uefi that supports C++ exceptions
+1. [staticer](https://github.com/mon231/staticer) - executables / dynamic-libraries embedder to merge binaries into one file
+1. [comp-camp](https://github.com/mon231/comp-camp) - python-implemented compiler for simple-syntax programming language
+
+#### Executors & Interceptiors
+1. [apkmod](https://github.com/mon231/apkpatcher) - automated apk-patcher to rebuild apk files and inject [frida](https://github.com/frida) script+gadget
+1. [shellterpreter](https://github.com/mon231/shellterpreter) - shellcode executor for that utilizes in-image stubs (no rxni)
+1. [frida-python-bridge](https://github.com/mon231/frida-python-bridge) - [frida](https://github.com/frida) bridge to attach and intercept python interpreters
+1. [mujde](https://github.com/mon231/com.rel.mujde) - android Xposed module to dynamically inject [frida](https://github.com/frida) upon process creation
+1. [languager](https://github.com/mon231/com.rel.languager) - android Xposed module to mock device's language/locale settings
+
+#### Utils
+1. [signapp](https://github.com/mon231/signapp) - scripts wrapper to sign apk files
+1. [relst](https://github.com/mon231/relst) - auto-generator for python server-client APIs that support binary/xml/json protos
+1. [firstclass](https://github.com/mon231/firstclass) - dataclass support reinterpret de/serialization for PODs (and more) as binary/xml/json
+
+#### Fun & Profit
+1. [nothing](https://github.com/mon231/nothing) - an android app that does literally nothing
+1. [vidspy](https://github.com/mon231/vidspy) - pythonic android/pc app to view/download media from ALL common platforms
+1. [sonic](https://github.com/mon231/sonic) - patch of sonic-ultimate flash-game with extra levels/cheat-codes and android support
+1. [color-tweak](https://github.com/mon231/color-tweak) - patch of the android colorswitch-game that lets you NEVER die
