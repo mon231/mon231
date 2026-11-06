@@ -71,8 +71,8 @@
 <a href="https://www.duolingo.com/profile/ArielTubul2" target="_blank" rel="noreferrer"><img src="assets/duolingo.svg" width="32" height="32" /></a>
 <a href="https://t.me/mon231" target="_blank" rel="noreferrer"><img src="assets/telegram.ico" width="32" height="32" /></a>
 <a href="https://xdaforums.com/m/mon231.12953693/" target="_blank" rel="noreferrer"><img src="assets/xda.png" width="32" height="32" /></a>
+<a href="https://pypi.org/user/mon231/" target="_blank" rel="noreferrer"><img src="assets/pypi.ico" width="32" height="32" /></a>
 </p>
-
 
 ### Badges
 
