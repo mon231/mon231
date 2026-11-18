@@ -97,11 +97,14 @@
 
 #### Utils
 1. [signapp](https://github.com/mon231/signapp) - scripts wrapper to sign apk files
+1. [zorek](https://github.com/mon231/com.rel.zorek) - pythonic android/pc app to maintain dns-named remote-tunnels using [zrok](https://zrok.io)
+1. [adbhelper](https://github.com/mon231/com.rel.adbhelper) - opensource rewrite of 甲壳虫ADB助手常见问题, advanced adb client for android
 1. [relst](https://github.com/mon231/relst) - auto-generator for python server-client APIs that support binary/xml/json protos
 1. [firstclass](https://github.com/mon231/firstclass) - dataclass support reinterpret de/serialization for PODs (and more) as binary/xml/json
 
 #### Fun & Profit
 1. [nothing](https://github.com/mon231/nothing) - an android app that does literally nothing
-1. [vidspy](https://github.com/mon231/vidspy) - pythonic android/pc app to view/download media from ALL common platforms
+1. [vidspy](https://github.com/mon231/com.rel.vidspy) - pythonic android/pc app to view/download media from ALL common platforms
 1. [sonic](https://github.com/mon231/sonic) - patch of sonic-ultimate flash-game with extra levels/cheat-codes and android support
 1. [color-tweak](https://github.com/mon231/color-tweak) - patch of the android colorswitch-game that lets you NEVER die
+1. [tadirel](https://github.com/mon231/com.rel.tadirel) - pythonic android/pc app to control [gree](https://pypi.org/project/greeclimate/) air-conditioners (like Tadiran)
